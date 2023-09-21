@@ -1,1 +1,1 @@
-# Professor-Salary-Data-visualization-using-R-Project
+# Professor_Salary_Data_visualization_using_R_Project
